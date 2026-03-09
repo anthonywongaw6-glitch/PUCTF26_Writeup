@@ -34,18 +34,6 @@ Categories included in the CTF:
 
 ---
 
-# Repository Structure
-
-```
-PUCTF-Writeups/
-│
-├── README.md
-│
-└── Under-The-Shell.md
-│
-└── Calling-Usagi-As-Hachiware.md
-```
-
 Each writeup typically includes:
 
 - Challenge information
