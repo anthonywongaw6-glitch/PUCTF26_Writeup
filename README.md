@@ -2,7 +2,7 @@
 
 This repository contains my writeups for challenges from **PolyU Capture The Flag (PUCTF)** competitions.
 
-The purpose of this repository is to document my solving process, share knowledge, and archive interesting challenges.
+The purpose of this repository is to document my solving process, share knowledge, and archive interesting challenges. (Does not imply that other challenges are not interesting, I migh t be too dumb to solve them.) :(
 
 ---
 
