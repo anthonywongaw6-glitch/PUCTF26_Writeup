@@ -30,6 +30,7 @@ Categories included in the CTF:
 | Challenge | Category | Writeup |
 |----------|----------|--------|
 | Under The Shell | Reverse Engineering | [Link](Under-The-Shell.md) |
+| Calling Usagi As Hachiware | AI | [Link] To be uploaded
 
 ---
 
@@ -41,6 +42,8 @@ PUCTF-Writeups/
 ├── README.md
 │
 └── Under-The-Shell.md
+│
+└── Calling-Usagi-As-Hachiware.md
 ```
 
 Each writeup typically includes:
