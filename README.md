@@ -374,11 +374,9 @@ console.log(memory.match(/PUCTF26\{.*?\}/g));
 
 # Closing Thoughts
 
-This was a nice challenge because it disguised a **reverse engineering problem** as a simple shell task.
-
 The fake terminal, permission errors, decoy flag, and looping directories were all designed to keep the player thinking like a shell user.
 
 The real solution path only becomes obvious once you stop trusting the terminal and start inspecting the application behind it.
 
 The hint **“deeper inspection”** was accurate in the best possible way:  
-the answer was not under the shell, but **behind it**.
+the answer was not under the shell, but **behind it**, somehow.
