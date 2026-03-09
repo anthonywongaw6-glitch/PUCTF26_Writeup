@@ -4,7 +4,7 @@
 | --- | --- |
 | **Challenge Name** | Calling Usagi as Hachiware |
 | **Author** | Paco |
-| **Category** | AI / Misc |
+| **Category** | AI |
 | **Description** | ula ula ula ulaaa<br>Translation: model_a is correct image classifier for usagi and hachiware<br>PS: Usagi description: https://chiikawa.fandom.com/wiki/Usagi<br>Hachiware description: https://chiikawa.fandom.com/wiki/Hachiware |
 
 ---
@@ -250,6 +250,10 @@ subject to ||x − original|| < ε
 This allowed us to flip the prediction from **hachiware → usagi** while keeping the image visually unchanged.
 
 ---
+
+## Final Adversarial Image
+
+![Adversarial Usagi](adv_usagi.png)
 
 # Final Flag
 
