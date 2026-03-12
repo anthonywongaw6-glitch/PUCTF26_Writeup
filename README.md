@@ -29,7 +29,7 @@ Categories included in the CTF:
 
 | Challenge | Category | Writeup |
 |----------|----------|--------|
-| Under The Shell | Reverse Engineering | [Link](Under-The-Shell.md) |
+| Under The Shell | Reverse Engineering | [Link](https://github.com/anthonywongaw6-glitch/PUCTF26_Writeup/blob/main/Reverse%20Engineering/Under_The_Shell.md) |
 | Calling Usagi As Hachiware | AI | [Link] To be uploaded
 
 ---
