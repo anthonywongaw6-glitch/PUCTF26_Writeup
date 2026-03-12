@@ -5,9 +5,9 @@
 | Field | Value |
 |---|---|
 | **Challenge Name** | QtLicense |
-| **Author** | PolyU CTF |
+| **Author** | SalaryThief |
 | **Category** | Reverse Engineering |
-| **Description** | Activate the software with a valid license key. |
+| **Description** | Last time, someone said my license activation program so easy to crack it. So, I enhanced it in this time. |
 
 ---
 
