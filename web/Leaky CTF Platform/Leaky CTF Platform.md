@@ -290,14 +290,6 @@ which triggers the admin bot to visit the malicious URL.
 
 ---
 
-# Closing Thoughts
 
-This challenge nicely combines several common web exploitation concepts:
-
-- **XSS**
-- **admin bot abuse**
-- **oracle-based information leaks**
-
-Individually, each component might seem harmless, but when chained together they allow full recovery of the hidden flag.
 
 It demonstrates how small design decisions—like reflecting user input or using prefix checks—can unintentionally create powerful attack primitives when combined.
