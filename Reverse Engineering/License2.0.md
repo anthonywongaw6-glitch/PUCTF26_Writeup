@@ -275,10 +275,3 @@ PUCTF26{...} again, i forgor to save the flag before submitting
 ```
 
 ---
-
-# Key Takeaways
-
-- Client-side binaries often expose hidden API parameters
-- Never trust security decisions made by the client
-- Reverse engineering can reveal undocumented server features
-- API request replication is often easier than patching binaries
